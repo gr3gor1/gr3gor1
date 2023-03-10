@@ -6,7 +6,7 @@
 ### Hi there my name is Gregory 👋
 
 - 🔭 I’m currently working on my thesis : Fake News Detection using Deep Learning
-- 📫 How to reach me: Peep the LinkedIn
+- 📫 How to reach me: Check the LinkedIn
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
